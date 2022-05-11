@@ -6,6 +6,7 @@ main {
   background-repeat: no-repeat;
   background-position: center;
   background-color: black;
+  background-size: cover;
 }
 
 /* .login-image {
@@ -19,7 +20,7 @@ main {
     justify-content: center;
     align-items: center; */
   position: relative;
-  width: 50%;
+  width: 40%;
   height: 500px;
   padding: 30px;
   opacity: 0.9;
@@ -71,7 +72,7 @@ main {
     margin-top: 30px !important;
 }
 .main-login--inputs input{
-    width: 85% !important;
+    width: 70% !important;
     height: 35px;
     padding: 8px;
     margin-bottom: 25px;
